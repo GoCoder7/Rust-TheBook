@@ -1,0 +1,1 @@
+/Users/gohyeoncheol/Documents/programming/rust/Tutorial/TheBook/_12_building_cli/minigrep/target/debug/libminigrep.rlib: /Users/gohyeoncheol/Documents/programming/rust/Tutorial/TheBook/_12_building_cli/minigrep/src/lib.rs
