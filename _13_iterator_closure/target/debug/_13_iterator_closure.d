@@ -1,0 +1,1 @@
+/Users/gohyeoncheol/Documents/programming/rust/Tutorial/TheBook/_13_iterator_closure/target/debug/_13_iterator_closure: /Users/gohyeoncheol/Documents/programming/rust/Tutorial/TheBook/_13_iterator_closure/src/main.rs
