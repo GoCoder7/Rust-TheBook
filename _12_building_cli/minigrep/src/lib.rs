@@ -6,13 +6,18 @@ pub struct Config {
   pub ignore_case: bool,
 }
 impl Config {
-  pub fn build(args: &[String]) -> Result<Self, &str> {
-      if args.len() < 3 {
-          return Err("not enough arguments");
-      }
+  pub fn build(mut args: impl Iterator<Item = String>) -> Result<Self, &'static str> {
+      args.next(); // 첫번째 버림
 
-      let query = args[1].to_owned();
-      let file_path = args[2].to_owned();
+      let query = match args.next() {
+        Some(x) => x,
+        None => return Err("Didn't get a query string(first argument)"),
+      };
+      let file_path = match args.next() {
+        Some(x) => x,
+        None => return Err("Didn't get a file_path(second argument)"),
+      };
+
       let ignore_case = env::var("IGNORE_CASE").is_ok();
   
       Ok(Self{ query, file_path, ignore_case })
