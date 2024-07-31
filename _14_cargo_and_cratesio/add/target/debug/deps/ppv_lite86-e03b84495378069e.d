@@ -1,0 +1,10 @@
+/Users/gohyeoncheol/Documents/programming/rust/Tutorial/TheBook/_14_cargo_and_cratesio/add/target/debug/deps/libppv_lite86-e03b84495378069e.rmeta: /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/gohyeoncheol/Documents/programming/rust/Tutorial/TheBook/_14_cargo_and_cratesio/add/target/debug/deps/libppv_lite86-e03b84495378069e.rlib: /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/gohyeoncheol/Documents/programming/rust/Tutorial/TheBook/_14_cargo_and_cratesio/add/target/debug/deps/ppv_lite86-e03b84495378069e.d: /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs:
+/Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs:
+/Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs:
+/Users/gohyeoncheol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/generic.rs:

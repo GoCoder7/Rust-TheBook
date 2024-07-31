@@ -1,0 +1,1 @@
+/Users/gohyeoncheol/Documents/programming/rust/Tutorial/TheBook/_14_cargo_and_cratesio/target/package/my_14_cargo_and_cratesio-0.1.0/target/debug/libmy_14_cargo_and_cratesio.rlib: /Users/gohyeoncheol/Documents/programming/rust/Tutorial/TheBook/_14_cargo_and_cratesio/target/package/my_14_cargo_and_cratesio-0.1.0/src/lib.rs
