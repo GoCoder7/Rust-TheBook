@@ -1,0 +1,1 @@
+/Volumes/HDD-1T-2021-Mac/문서-HDD/programming/rust/Tutorial/TheBook/_19_advanced_features/target/debug/_19_advanced_features: /Volumes/HDD-1T-2021-Mac/문서-HDD/programming/rust/Tutorial/TheBook/_19_advanced_features/src/hello_macro/mod.rs /Volumes/HDD-1T-2021-Mac/문서-HDD/programming/rust/Tutorial/TheBook/_19_advanced_features/src/main.rs
